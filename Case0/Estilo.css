@@ -1,0 +1,124 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+a.link {
+    color: rgb(24, 167, 185);
+}
+
+.linha {
+    width: 960px;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 5px 0;
+}
+
+#bg {
+    margin: auto;
+    background: rgb(202, 202, 214);
+    padding: 10px;
+}
+
+#Selection {
+    font-size: 12px;
+    text-align: left;
+    color: white;
+    background: rgb(42, 140, 179);
+    padding: 7px 10px;
+}
+
+label, input[type=submit], input[type=text] {
+    display: block;
+    width: 100%;
+}
+
+input[type=submit] {
+    width: 100%;
+    text-align: center;
+    background: #ff6600;
+    color: #ffffff;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: 0;
+}
+
+input[type=submit]:hover {
+    background: #333333;
+}
+
+#promessa {
+    font-size: 6px;
+    color: black;
+    text-align: center;
+}
+
+.link2 {
+    color: #ffffff;
+}
+
+#bg2 {
+    background: rgb(42, 140, 179);
+    width: 980px;
+    font-size: 10px;
+    color: white;
+    padding: 15px 0;
+}
+
+.tamanho {
+    width: 50%;
+    height: 50%;
+}
+
+.coluna {
+    padding: 0 10px;
+    float: left;
+}
+
+.col1 {
+    width: 60px;
+}
+
+.col2 {
+    width: 140px;
+}
+
+.col3 {
+    width: 220px;
+}
+
+.col4 {
+    width: 300px;
+}
+
+.col5 {
+    width: 380px;
+}
+
+.col6 {
+    width: 460px;
+}
+
+.col7 {
+    width: 540px;
+}
+
+.col8 {
+    width: 620px;
+}
+
+.col9 {
+    width: 700px;
+}
+
+.col10 {
+    width: 780px;
+}
+
+.col11 {
+    width: 860px;
+}
+
+.col12 {
+    width: 940px;
+}
